@@ -1,3 +1,23 @@
+DRS_meas_ortho.csv
+
+size: 5215 rows x 1532 columns
+
+It contains all spectral measurements including Feature Names (i.e. Wavelength channel) and Class Labels, where
+
+- Spectral measurements: 5215 x 1532
+
+- Feature Name: 1 x 1531 (first row), which corresponds to wavelengths ranging from 355 - 1850 nm;
+
+- Class Label: 5215 x 1 (last column).
+
+boneCement: 215
+boneMarrow: 1000
+cartilage: 1000
+cortBone: 1000
+muscle: 1000
+traBone: 1000
+
+
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
