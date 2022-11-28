@@ -1,6 +1,6 @@
 DRS_meas_ortho.csv
 
-size: 5215 rows x 1532 columns
+5215 rows x 1532 columns
 
 It contains all spectral measurements including Feature Names (i.e. Wavelength channel) and Class Labels, where
 
@@ -16,6 +16,8 @@ cartilage: 1000
 cortBone: 1000
 muscle: 1000
 traBone: 1000
+
+
 
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
