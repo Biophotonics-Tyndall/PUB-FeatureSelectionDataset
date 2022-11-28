@@ -10,12 +10,13 @@ It contains all spectral measurements including Feature Names (i.e. Wavelength c
 
 - Class Label: 5215 x 1 (last column).
 
-boneCement: 215
-boneMarrow: 1000
-cartilage: 1000
-cortBone: 1000
-muscle: 1000
-traBone: 1000
+Class Size:
+- boneCement: 215
+- boneMarrow: 1000
+- cartilage: 1000
+- cortBone: 1000
+- muscle: 1000
+- traBone: 1000
 
 
 
