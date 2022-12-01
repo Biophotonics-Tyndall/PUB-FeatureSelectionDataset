@@ -14,7 +14,7 @@ It contains all spectral measurements including Feature Names (i.e. Wavelength c
 
 - Class Label: 5215 x 1 (last column).
 
-Class Size:
+## Tissue Types and Sizes
 - boneCement: 215
 - boneMarrow: 1000
 - cartilage: 1000
