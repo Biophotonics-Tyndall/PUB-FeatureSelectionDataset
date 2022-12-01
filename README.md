@@ -22,9 +22,10 @@ It contains all spectral measurements including Feature Names (i.e. Wavelength c
 - muscle: 1000
 - traBone: 1000
 
+## Citation
+[JBO]
 
-
-
+## License
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
