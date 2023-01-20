@@ -1,4 +1,5 @@
 # DRS Dataset - Orthopedics
+[![DOI](https://zenodo.org/badge/591001156.svg)](https://zenodo.org/badge/latestdoi/591001156)
 
 ## File Name
 DRS_meas_ortho.csv
